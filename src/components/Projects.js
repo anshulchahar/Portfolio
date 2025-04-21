@@ -46,7 +46,7 @@ const Projects = () => {
   const projects = [
     {
       id: 'solvaai',
-      title: 'SolvaAI',
+      title: 'SonneAI',
       description: 'Developed a AI system to assist users in analyzing the Documents and providing solutions',
       image: '/Solva.png',
       technologies: ['Gemini API','RAG Implementation'],
@@ -62,7 +62,7 @@ const Projects = () => {
     },
     {
       id: 'aiml',
-      title: 'AI/ML Projects',
+      title: 'AI/ML Project',
       description: 'I worked on evaluating and improving Object Extraction from Atari Games using SPACE + MOC',
       image: '/AIML.jpg',
       technologies: ['Python', 'PyTorch', 'Scikit-Learn'],
