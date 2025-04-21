@@ -21,7 +21,7 @@ const About = () => {
       location: "Noida, India",
       degree: "B.Tech - Computer Science & Engineering (2 Semesters)",
       period: "30/04/2019 - 30/04/2020",
-      grade: "8.6 CGPA"
+      grade: "8.35 CGPA"
     }
   ];
 

@@ -18,7 +18,7 @@ const ProjectSolvaAI = () => {
                 </svg>
                 Back to Projects
               </Link>
-              <h1 className="text-3xl font-extrabold text-gray-900 dark:text-white sm:text-4xl">SolvaAI</h1>
+              <h1 className="text-3xl font-extrabold text-gray-900 dark:text-white sm:text-4xl">SonneAI</h1>
               <p className="mt-2 text-lg text-gray-500 dark:text-gray-400">AI-Powered Document Analysis Tool</p>
             </div>
           </div>
@@ -38,7 +38,7 @@ const ProjectSolvaAI = () => {
             <div className="prose prose-lg dark:prose-invert max-w-none">
               <h2>Project Overview</h2>
               <p>
-                SolvaAI is an advanced document analysis application that leverages artificial intelligence to provide 
+                SonneAI is an advanced document analysis application that leverages artificial intelligence to provide 
                 insightful analysis of PDF documents. Built using Next.js and modern web technologies, it offers a fast, 
                 responsive, and feature-rich experience for users needing to extract insights from their documents.
               </p>
@@ -65,7 +65,7 @@ const ProjectSolvaAI = () => {
               
               <h2>Technical Implementation</h2>
               <p>
-                The SolvaAI project was built using a robust modern technology stack:
+                The SonneAI project was built using a robust modern technology stack:
               </p>
               <ul>
                 <li>
@@ -76,7 +76,7 @@ const ProjectSolvaAI = () => {
                   <strong>Backend:</strong> Next.js API Routes - Used for creating serverless API endpoints within the Next.js application
                 </li>
                 <li>
-                  <strong>Database:</strong> Prisma ORM with SQLite for development - A modern database toolkit making database 
+                  <strong>Database:</strong> Prisma ORM with PostgreSQL for development - A modern database toolkit making database 
                   access easy and type-safe
                 </li>
                 <li>
@@ -106,7 +106,7 @@ const ProjectSolvaAI = () => {
               
               <h2>Challenges and Solutions</h2>
               <p>
-                One of the major challenges in developing SolvaAI was ensuring secure and efficient handling of PDF documents 
+                One of the major challenges in developing SonneAI was ensuring secure and efficient handling of PDF documents 
                 while providing meaningful AI analysis. To address this:
               </p>
               <ul>
@@ -118,7 +118,7 @@ const ProjectSolvaAI = () => {
               
               <h2>Results and Impact</h2>
               <p>
-                SolvaAI has significantly improved the efficiency of document analysis and information extraction. Users benefit from:
+                SonneAI has significantly improved the efficiency of document analysis and information extraction. Users benefit from:
               </p>
               <ul>
                 <li>Faster document comprehension with AI-generated summaries</li>
@@ -152,7 +152,6 @@ const ProjectSolvaAI = () => {
                       'React', 
                       'TypeScript', 
                       'Tailwind CSS', 
-                      'Prisma', 
                       'NextAuth.js', 
                       'Google Gemini API'
                     ].map((tech, index) => (
@@ -180,12 +179,12 @@ const ProjectSolvaAI = () => {
                 <div>
                   <p className="text-sm text-gray-500 dark:text-gray-400">Official Website</p>
                   <a 
-                    href="https://solva.com" 
+                    href="https://sonneai.com/" 
                     target="_blank" 
                     rel="noopener noreferrer" 
                     className="text-base text-blue-600 dark:text-blue-400 hover:underline"
                   >
-                    visit solva.com
+                    Visit SonneAI
                   </a>
                 </div>
                 
